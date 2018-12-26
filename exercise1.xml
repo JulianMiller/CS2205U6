@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!-- This section represents programming exercise 1 from Unit 6 of CS2205 -->
+<exercises number="1">
+	<date>December 25th, 2018</date>
+	<item>Exercise 1 - Write an XML document describing the exercises in this document.</item>
+	<item>Exercise 2 - Write an XML document describing a person: name, occupation, address and hobbies.</item>
+</exercises>
