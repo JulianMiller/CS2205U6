@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!-- This section represents programming exercise 2 from Unit 6 of CS2205 -->
+<person>
+	<name>
+		<first_name>Mortimer</first_name>
+		<last_name>Mouse</last_name>
+	</name>
+	<occupation>Rival of Mickey Mouse</occupation>
+	<address>
+		<street>123 Disney Place</street>
+		<city>Orlando</city>
+		<state>Florida</state>
+		<zip_code>32789</zip_code>
+	</address>
+	<hobbies>
+		<hobby>Hating Mickey Mouse</hobby>
+		<hobby>Chasing Minnie Mouse</hobby>
+	</hobbies>
+</person>
