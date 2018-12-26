@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This section represents programming exercise 4 from Unit 6 of CS2205 -->
+<program_of_study>
+	<semester term="Fall 2008">
+		<general_education>
+			<course goal="8">PHIL 101</course>
+			<course goal="11">ECON 201</course>
+		</general_education>
+		<core_education>
+			<course>MGT 217</course>
+		</core_education>
+		<major_education>
+			<course>CIS 120</course>
+			<course>CIS 403</course>
+		</major_education>
+	</semester>
+	<semester term="Spring 2009">
+		<general_education></general_education>
+		<core_education>
+			<course>MGT 261</course>
+			<course>MKTG 325</course>
+		</core_education>
+		<major_education>
+			<course>CIS 220</course>
+			<course>CIS 407</course>
+			<course>CIS 490</course>
+		</major_education>
+	</semester>
+</program_of_study>
